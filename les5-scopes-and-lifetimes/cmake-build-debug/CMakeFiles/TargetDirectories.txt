@@ -1,0 +1,3 @@
+/Users/d1ff1cult/Documents/KUL 2021-2022/IW/oefenzitting-c/les5-scopes-and-lifetimes/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/d1ff1cult/Documents/KUL 2021-2022/IW/oefenzitting-c/les5-scopes-and-lifetimes/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/d1ff1cult/Documents/KUL 2021-2022/IW/oefenzitting-c/les5-scopes-and-lifetimes/cmake-build-debug/CMakeFiles/Datatypes.dir

@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/d1ff1cult/Documents/KUL 2021-2022/IW/oefenzitting-c/les2-c-build-tools/src/linker/main.c
+stdio.h
+-
+math.h
+/Users/d1ff1cult/Documents/KUL 2021-2022/IW/oefenzitting-c/les2-c-build-tools/src/linker/math.h
+
+/Users/d1ff1cult/Documents/KUL 2021-2022/IW/oefenzitting-c/les2-c-build-tools/src/linker/math.h
+
